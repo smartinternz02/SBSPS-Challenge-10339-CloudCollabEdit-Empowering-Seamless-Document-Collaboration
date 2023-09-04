@@ -1,0 +1,29 @@
+.datap {
+    margin-top: 7%;
+    /* margin-left: 250px; */
+    background-color:white;
+    width: 150vh;
+    height: auto;
+	box-shadow: 0px 10px 30px hsl(189, 4%, 35%, 0.5);
+    border-radius: 10px;
+}
+table {
+    padding: 20px;
+    text-align: center;
+}
+#h1 {
+    width: 300px;
+}
+#h2 {
+    width: 200px;
+}
+#h3{ 
+    width: 300px;
+}
+#h4 {
+    width: 100px;
+}
+#d1 {
+    text-align: left;
+    padding:15px;
+}

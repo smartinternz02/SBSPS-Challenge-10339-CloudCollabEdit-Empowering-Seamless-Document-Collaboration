@@ -1,0 +1,90 @@
+.sidebar {
+    margin-top: 10px;
+}
+.abc{
+    margin: 8%;
+}
+.p2{
+    margin-top: 4%;
+}
+.sidebar_btn button {
+    background-color: transparent;
+    border: 1px solid lightgray;
+    display: flex;
+    align-items: center;
+    border-radius: 40px;
+    padding: 5px 10px;
+    margin-left: 20px;
+    box-shadow: 2px 2px 2px #ccc;
+}
+.sidebar_btn span {
+    font-size: 16px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+.sidebar_options{
+    margin-top: 10px;
+}
+.sidebar_option {
+    display: flex;
+    align-items: center;
+    padding: 8px 20px;
+    border-radius: 0px 20px 20px 0px;
+}
+.sidebar_option:hover{
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+.sidebar_option span {
+    margin-left: 15px;
+    font-size: 13px;
+    font-weight: 500;
+    color: rgb(78, 78, 78);
+}
+.sidebar_option-Active {
+    background-color: #e8f0fe;
+}
+.sidebar_option-Active span{
+    color: #1367d2 !important;
+}
+.sidebar_option-Active svg{
+    color: #1367d2 !important;
+}
+.progress_bar {
+    padding: 0px 20px;
+}
+.progress_bar span{
+    display: flex;
+    font-size: 13px;
+    color: #333;
+}
+.modal_pop {
+    top: 50%;
+    background-color: #fff;
+    width: 500px;
+    margin: 0px auto;
+    position: relative;
+    transform: translateY(-50%);
+    padding: 10px;
+    border-radius: 10px;
+}
+.modal_heading {
+    text-align: center;
+    border-bottom: 1px solid lightgray;
+    height: 40px;
+    padding: 10px;
+}
+input.post_submit {
+    width: 100%;
+    background: #2381fa;
+    padding: 10px 20px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 16px;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}

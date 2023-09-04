@@ -1,0 +1,41 @@
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(255, 255, 255, 0.11);
+    backdrop-filter: blur(4.9px);
+    -webkit-backdrop-filter: blur(4.9px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p{
+    font-size: small;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.popup-inner {
+    border: 1px solid rgba(241, 176, 176, 0.69);
+    border-radius: 20px;
+    position: relative;
+    padding: 32px;
+    width: 100%;
+    max-width: 500px;
+    background-color: #FFF;
+    /* background: url("../src/assets/def.jpg") no-repeat right bottom; */
+
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+.popup-inner .close-btn {
+    margin-top: 10px;
+    margin-left: 10px;
+    border: none;
+    background-color: dimgray;
+    color: white;
+    border-radius: 2px;
+}

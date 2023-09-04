@@ -1,0 +1,65 @@
+.fab-container {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  flex-direction: column-reverse;
+  position: fixed;
+  right: 2em;
+  bottom: 2em;
+  max-height: 52px;
+}
+
+.fab-container.open {
+  max-height: max-content;
+}
+
+.fab-container li {
+  border-radius: 50%;
+  box-shadow: 0 3px 6px lightgrey;
+  display: grid;
+  place-items: center;
+  margin: 8px 0;
+  font-size: 28px;
+  padding: 12px;
+  cursor: pointer;
+  position: relative;
+}
+
+.fab-button {
+  background-color: #00a8ff;
+}
+
+.fab-button svg {
+  fill: white;
+}
+
+.fab-action {
+  transform: translateY(50px) scale(0);
+  transition: transform 300ms, opacity 300ms;
+  opacity: 0;
+}
+
+.fab-action:hover .tooltip {
+  transform: translateX(-100%) scale(1);
+  opacity: 1;
+}
+
+.fab-action.open {
+  transform: translateY(0) scale(1);
+  opacity: 1;
+}
+
+.fab-action .tooltip {
+  padding: 4px 6px;
+  font-size: 12px;
+  position: absolute;
+  left: -12px;
+  transform: translateX(-75%);
+  background-color: #353b48;
+  border-radius: 4px;
+  color: white;
+  opacity: 0;
+  transition: transform 300ms, opacity 300ms;
+  user-select: none;
+}

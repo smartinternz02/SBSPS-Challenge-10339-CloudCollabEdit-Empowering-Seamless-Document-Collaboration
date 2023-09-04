@@ -1,0 +1,57 @@
+.card1 {
+	background-color: white;
+    width: 620px;
+	height: 180px;
+	border-radius: 14px;
+	box-shadow: 0px 10px 30px hsl(189, 4%, 35%, 0.5);
+	position: relative;
+	top: 50px;
+	/* left: 200px; */ 
+}
+.card1 {
+	display: flex;
+	flex-direction: row;
+  }
+  
+  .left {
+	flex: 30%;
+  }
+  
+  .right {
+	flex: 70%;
+  }
+header {
+	/* background-image: url("./images/bg-pattern-card.jpg"); */
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	/* background-size: contain; */
+	text-align: center;
+	border-top-left-radius: 14px;
+	height: 180px;
+	border-bottom-left-radius: 14px;
+}
+
+.imagee img {
+	width: 100px;
+	height: auto;
+	/* border: solid white 4px; */
+	border-radius: 50%;
+	margin-top: 38px;
+	margin-right: -100%;
+}
+
+.bold-text {
+	font-weight: bold;
+	font-size: 1.1rem;
+	text-align: center;
+	padding: 10px 20px 0px 20px;
+}
+button {
+    border: none;
+    background-color: aquamarine;
+    cursor: pointer;
+    font-size: large;
+    padding: 10px;
+    border-radius: 25px;
+    margin-top: 10px;
+}

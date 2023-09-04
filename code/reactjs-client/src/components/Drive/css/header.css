@@ -1,0 +1,59 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 1% 2%;
+    background-color: white; /* Add a background color if needed */
+    /* Other styles... */
+}
+
+.header__logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__logo img {
+    width: 33px;
+    vertical-align: middle; /* Align the image vertically in the middle */
+}
+
+.header__logo span {
+    color: gray;
+    font-size: 22px;
+    margin-left: 8px;
+    vertical-align: middle; /* Align the text vertically in the middle */
+}
+
+.header__search {
+    display: flex;
+    flex: 1 1;
+    background-color: whitesmoke;
+    padding: 11px;
+    margin-left: 2%;
+    border-radius: 10px;
+    flex-direction: row;
+}
+
+.header__search input {
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+    flex: 1;
+}
+
+.header__icons {
+    display: flex;
+    align-items: center;
+}
+.header__icons span{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.header__icons .material-icons {
+    color: rgb(36,36,36);
+}
+
+.header__icons svg.MuiSvgIcon-root {
+    margin: 0px 10px;
+}
