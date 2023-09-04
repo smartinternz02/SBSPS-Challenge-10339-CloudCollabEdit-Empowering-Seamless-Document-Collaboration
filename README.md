@@ -10,7 +10,7 @@ TEAM MEMBERS - Jayanthan, Magesh, Manoj, SanjayKumar
 
 Demonstration Video Link and the project report is in this folder.You can also see the Screenshots of the Application in the /images folder
 
-Thanku SmartInternz Team & IBM for this Hack Challenge. We have learned a lot from this event.
+Thanku SmartInternz Team & IBM for this Hack Challenge. We have learned a lot from this event.🤩🎉
 
 
 
