@@ -11,6 +11,13 @@ code/
 │   │   ├── components/
 │   │   │   ├── Dashboard.js    # Dashboard component
 │   │   │   ├── Profile-card/
+│   │   │   │   ├── images/
+│   │   │   │   │   ├── bg-pattern-bottom.svg
+│   │   │   │   │   ├── bg-pattern-card.jpg
+│   │   │   │   │   ├── bg-pattern-card.svg
+│   │   │   │   │   ├── bg-pattern-top.svg
+│   │   │   │   │   ├── desktop-screenshot.png
+│   │   │   │   │   └── image-rita.png
 │   │   │   │   ├── data.css
 │   │   │   │   ├── Data.js
 │   │   │   │   ├── Profile.css
