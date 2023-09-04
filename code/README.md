@@ -1,3 +1,44 @@
-#Code Structure of the project 
-
-![Screenshot 2023-09-05 002609](https://github.com/smartinternz02/SBSPS-Challenge-10339-CloudCollabEdit-Empowering-Seamless-Document-Collaboration/assets/98992534/39c1418d-0e22-4721-964a-75879cef316f)
+code/
+├── client/
+│   ├── public/
+│   │   ├── favicon.ico         # Favicon
+│   │   ├── index.html          # Main HTML file
+│   │   ├── logo192.png         # Logo image
+│   │   ├── logo512.png         # Logo image
+│   │   ├── manifest.json       # Manifest file
+│   │   └── robots.txt          # Robots.txt file
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Dashboard.js    # Dashboard component
+│   │   │   ├── Profile-card/
+│   │   │   │   ├── images/
+│   │   │   │   │   ├── bg-pattern-bottom.svg
+│   │   │   │   │   ├── bg-pattern-card.jpg
+│   │   │   │   │   ├── bg-pattern-card.svg
+│   │   │   │   │   ├── bg-pattern-top.svg
+│   │   │   │   │   ├── desktop-screenshot.png
+│   │   │   │   │   └── image-rita.png
+│   │   │   │   ├── data.css
+│   │   │   │   ├── Data.js
+│   │   │   │   ├── Profile.css
+│   │   │   │   ├── ProfileCard.css
+│   │   │   │   └── ProfileCard.js
+│   │   │   ├── TextEditor/
+│   │   │   │   ├── Popup.css
+│   │   │   │   ├── Popup.js
+│   │   │   │   ├── style.css
+│   │   │   │   └── TextEditor.js
+│   │   ├── pages/
+│   │   │   ├── Home.js         # Home page component
+│   │   │   ├── Layout.js       # Layout component
+│   │   │   └── Logster.js      # Logster page component
+│   │   ├── App.css             # App CSS
+│   │   ├── App.js              # Main App component
+│   │   └── index.js            # Entry point
+│   ├── .gitignore              # Git ignore file
+│   ├── README.md               # Readme file
+│   ├── package-lock.json       # NPM package lock file
+│   └── package.json            # NPM package file
+├── flask-server/               # Flask server folder (if any)
+├── node-server/                # Node.js server folder (if any)
+└── ...
