@@ -2,7 +2,7 @@
 
 This Project is a Submission for IBM-SmartInternz Hack Challenge 2023
 
-We have successfully deployed our project using Docker Containerization on Openshift, and it is now accessible to everyone. You can access the project by visiting [URL or Link](https://react-frontend-tjmanojofficial-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/). Our project [brief description or purpose of the project](https://drive.google.com/drive/folders/1ZkXGRxBtpKK7X_H6rLjWT5BeBglr3iv9?usp=sharing). We have implemented security measures to protect sensitive data and ensure authorized access.
+We have successfully deployed our project using Docker Containerization on Openshift, and it is now accessible to everyone. You can access the project by visiting this [Link](https://react-frontend-tjmanojofficial-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/). Our project [brief description or purpose of the project](https://drive.google.com/drive/folders/1ZkXGRxBtpKK7X_H6rLjWT5BeBglr3iv9?usp=sharing). We have implemented security measures to protect sensitive data and ensure authorized access.
 
 TEAM- Thunder Breathing
 
