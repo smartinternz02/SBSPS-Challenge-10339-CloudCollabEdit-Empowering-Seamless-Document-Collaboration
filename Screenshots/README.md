@@ -76,6 +76,19 @@ Same document two differnt client connected
 
 ![Screenshot (268)](https://github.com/smartinternz02/SBSPS-Challenge-10339-CloudCollabEdit-Empowering-Seamless-Document-Collaboration/assets/98992534/5462cb8a-2671-4109-82d5-214e55b4efdd)
 
+WorkDrive feature storing the user files in the IBM COS
+
+![Screenshot (270)](https://github.com/smartinternz02/SBSPS-Challenge-10339-CloudCollabEdit-Empowering-Seamless-Document-Collaboration/assets/98992534/1df3fe1f-7f75-40b8-9e44-94f8798ce8bb)
+
+Uploading the document to the COS bucket
+
+![Screenshot (273)](https://github.com/smartinternz02/SBSPS-Challenge-10339-CloudCollabEdit-Empowering-Seamless-Document-Collaboration/assets/98992534/1e1eb70c-15db-4093-887e-9938f2eafdb1)
+
+FIles listed after uploading the document
+
+![Screenshot (274)](https://github.com/smartinternz02/SBSPS-Challenge-10339-CloudCollabEdit-Empowering-Seamless-Document-Collaboration/assets/98992534/15a55323-877c-47b9-a925-32724324616d)
+
+
 Implemented the microservices for the deployemnt of the project in OPENSHIFT using docker containerization in this [Link](https://react-frontend-tjmanojofficial-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/)
 ![WhatsApp Image 2023-09-05 at 12 26 36 AM](https://github.com/smartinternz02/SBSPS-Challenge-10339-CloudCollabEdit-Empowering-Seamless-Document-Collaboration/assets/98992534/f02b7693-3d40-405d-887f-57bc34334873)
 
