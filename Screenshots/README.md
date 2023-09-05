@@ -71,3 +71,8 @@ Chat GPT integration for assisting for the content
 Same document two differnt client connected
 
 ![Screenshot (268)](https://github.com/smartinternz02/SBSPS-Challenge-10339-CloudCollabEdit-Empowering-Seamless-Document-Collaboration/assets/98992534/5462cb8a-2671-4109-82d5-214e55b4efdd)
+
+Implemented the microservices for the deployemnt of the project in OPENSHIFT using docker containerization
+
+![WhatsApp Image 2023-09-05 at 12 26 36 AM](https://github.com/smartinternz02/SBSPS-Challenge-10339-CloudCollabEdit-Empowering-Seamless-Document-Collaboration/assets/98992534/f02b7693-3d40-405d-887f-57bc34334873)
+
