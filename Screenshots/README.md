@@ -92,3 +92,14 @@ FIles listed after uploading the document
 Implemented the microservices for the deployemnt of the project in OPENSHIFT using docker containerization in this [Link](https://react-frontend-tjmanojofficial-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/)
 ![WhatsApp Image 2023-09-05 at 12 26 36 AM](https://github.com/smartinternz02/SBSPS-Challenge-10339-CloudCollabEdit-Empowering-Seamless-Document-Collaboration/assets/98992534/f02b7693-3d40-405d-887f-57bc34334873)
 
+
+
+I'll give here the sample two mailIds for the login without registering
+
+
+mailID: jeyanthvijay2000@gmail.com
+password:QAWSED
+
+mailId : jayanthandrj@gmail.com
+password: AWSED
+
