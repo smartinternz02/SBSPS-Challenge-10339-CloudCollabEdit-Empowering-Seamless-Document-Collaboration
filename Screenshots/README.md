@@ -65,6 +65,10 @@ Chat GPT integration for assisting for the content
 
 ![Screenshot (266)](https://github.com/smartinternz02/SBSPS-Challenge-10339-CloudCollabEdit-Empowering-Seamless-Document-Collaboration/assets/98992534/20bd2fbe-2693-437e-bd41-d88017295a2d)
 
+Creating the new version of the same file
+
+![Screenshot (269)](https://github.com/smartinternz02/SBSPS-Challenge-10339-CloudCollabEdit-Empowering-Seamless-Document-Collaboration/assets/98992534/62215a27-bef8-48a3-bf21-e031b9cfcac7)
+
 
 ![Screenshot (267)](https://github.com/smartinternz02/SBSPS-Challenge-10339-CloudCollabEdit-Empowering-Seamless-Document-Collaboration/assets/98992534/afd95369-f83f-45e2-bcee-f9615b4dd4b4)
 
